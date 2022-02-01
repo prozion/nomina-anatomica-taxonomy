@@ -1,0 +1,177 @@
+termini_generales
+	Verticales ru:Вертикальный
+	Horizontalis ru:Горизонтальный
+	Medianus ru:Срединный
+	Coronalis ru:Венечный
+	Sagittalis ru:Сагиттальный
+	Dexter ru:Правый
+	Sinister ru:Левый
+	Transversalis ru:Поперечный
+	Medialis ru:Медиальный
+	Intermedius ru:Промежуточный
+	Lateralis ru:Латеральный/боковой
+	Anterior ru:Передний
+	Posterior ru:Задний
+	Ventralis ru:Передний/вентральный
+	Dorsalis ru:Задний/дорсальный
+	Frontalis ru:Фронтальный/лобный
+	Occipitalis ru:Затылочный
+	Superior ru:Верхний
+	Inferior ru:Нижний
+	Cranialis ru:Верхний/краниальный
+	Caudalis ru:Нижний/каудальный
+	Rostralis ru:Ростральный
+	Apicalis ru:Верхушечный
+	Basalis ru:Базальный
+	Basilaris ru:Базилярный
+	Medius ru:Средний
+	Transversus ru:Поперечный
+	Longitudinalis ru:Продольный
+	Axialis ru:Осевой/аксиальный
+	Superficialis ru:Поверхностный
+	Profundus ru:Глубокий
+	Proximalis ru:Проксимальный
+	Distalis ru:Дистальный
+	Centralis ru:Центральный
+	Peripheralis ru:Периферический
+	Radialis ru:Лучевой
+	Ulnaris ru:Локтевой
+	Fibularis ru:Малоберцовый
+	Tibialis ru:Большеберцовый
+	Palmaris ru:Ладонный
+	Volaris ru:Ладонный
+	Plantaris ru:Подошвенный
+	Flexor ru:Сгибатель
+	Extensor ru:Разгибатель
+	regiones_et_partes_corporis ru:области_и_части_тела
+		Linea_mediana_anterior syn:Linea_sternalis ru:Передняя_срединная_линия ru-syn:Грудинная_линия
+		Linea_parasternalis ru:Окологрудинная_линия
+		Linea_medioclavicularis syn:Linea_mamillaris ru:Среднеключичная_линия ru-syn:Сосковая_линия
+		Linea_axillaris_antarior ru:Передняя_подмышечная_линия
+		Linea_axillaris_media syn:Medioaxillaris ru:Средняя_подмышечная_линия
+		Linea_axillaris_posterior ru:Задняя_подмышечная_линия
+		Linea_scapularis ru:Лопаточная_линия
+		Linea_paravertebralis ru:Околопозвоночная_линия
+		Linea_mediana_posterior ru:Задняя_срединная_линия
+		Planum_subcostale ru:Подреберная_плоскость
+		Planum_transpyloricum ru:Чреспилорическая_плоскость
+		Planum_supracristale ru:Надгребневая_плоскость
+		Planum_intertuberculare ru:Межгребневая_плоскость
+		Planum_interspinale ru:Межостевая_плоскость
+		Linea_preaxillaris ru:Предподмышечная_линия
+		Linea_postaxillaris ru:Послеподмышечная_линия
+		regiones_capites ru:области_головы
+			Reg_frontalis ru:Лобная_область
+			Reg_parietalis ru:Теменная_область
+			Reg_occipitalis ru:Затылочная_область
+			Reg_temporalis ru:Височная_область
+		regiones_faciales ru:области_лица
+			Reg_orbitalis ru:Область_глазницы
+			Reg_nasalis ru:Область_носа
+			Reg_oralis ru:Область_рта
+			Reg_mentalis ru:Подбородочная_область
+			Reg_infraorbitalis ru:Подглазничная_область
+			Reg_buccalis ru:Щечная_область
+			Reg_zygomatica ru:Скуловая_область
+		regiones_cervicales ru:области_шеи
+			regio_cervicalis_anterior syn:trigonum_cervicale_anterius ru:передняя_область_шеи ru-syn:передний_треугольник_шеи
+				Trigonum_submandibulare ru:Поднижнечелюстной_треугольник
+				Trigonum_caroticum ru:Сонный_треугольник
+				Trigonum_musculare syn:Omotracheale ru:Лопаточно_трахеальный_треугольник
+				Trigonum_submentale ru:Подбородочный_треугольник
+			reg_sternocleidomastoidea ru:грудино-ключично-сосцевидная_область
+				Fossa_supraclavicularis_minor ru:Малая_надключичная_ямка
+			reg_cervicalis_lateralis syn:trigonum_cervicale_posterius,regiones_colli ru:латеральная_область_шеи
+				Trigonum_omoclaviculare ru:Лпаточно-ключичный_треугольник
+				Fossa_supraclavicularis_major ru:Большая_надключичная_ямка
+			reg_cervicalis_posterior ru:задняя_область_шеи
+		regiones_pectorales ru:области_груди
+			Reg_presternalis ru:Подгрудинная_область
+			Fossa_infraclavicularis ru:Подключичная_ямка
+			Trigonum_clavipectorale ru:Ключично-грудной_треугольник
+			Reg_pectoralis ru:Грудная_область
+			Reg_mammaria ru:Грудная_область
+			Reg_inframammaria ru:Подгрудная_область
+			Reg_axillaris ru:Подмышечная_область
+			Fossa_axillaris ru:Подмышечная_ямка
+		regiones_abdominales ru:области_живота
+			Reg_hypochondriaca syn:Hypochondrium ru:Подреберная_область ru-syn:Подреберье
+			Reg_epigastrica syn:Epigastrium ru:Надчревная_область ru-syn:Надчревье
+			Reg_lateralis ru:Боковая_область
+			Reg_umbilicalis ru:Пупочная_облатсь
+			Reg_inguinalis ru:Паховая_область
+			Reg_pubica syn:Hypogastrium ru:Лобковая_область ru-syn:Подчревье
+		regiones_dorsales ru:области_спины
+			Reg_vertebralis ru:Позвоночная_область
+				Reg_sacralis ru:Крестцовая_область
+			Reg_scapularis ru:Лопаточная_область
+			Reg_infrascapularis ru:Подлопаточная_область
+			Reg_lumbarys syn:lumbaria ru:Поясничная_область
+				Trigonum_lumbare ru:Поясничный_треугольник
+		regio_perinealis ru:область_промежности
+			Reg_analis ru:Заднепроходная_область
+			Reg_urogenitalis ru:Мочеполовая_область
+		regiones_membri_superioris ru:области_верхней_конечности interchangeable:Reg_,Facies_
+			regio_deltoidea ru:дельтовидная_область
+			brachium ru:плечо
+				Reg_brachialis_anterior ru:Передняя_область_плеча
+				Reg_brachialis_posterior ru:Задняя_область_плеча
+			cubitus ru:локоть
+				Reg_cubitalis_anterior ru:Передняя_локтевая_область
+				Reg_cubitalis_posterior ru:Задняя_локтевая_область
+				Fossa_cubitalis ru:Локтевая_ямка
+					Sul_bicipitalis_lateralis ru:Латеральная_локтевая_борозда
+					Sul_bicipitalis_medialis ru:Медиальная_локтевая_борозда
+			antebrachium ru:предплечье
+				Reg_antebrachialis_anterior ru:Передняя_область_предплечья
+				Reg_antebrachialis_posterior ru:Задняя_область_предплечья
+				Margo_lateralis ru:Латеральный_край
+				Margo_medialis ru:Медиальный_край
+			carpus ru:запястье
+				Reg_carpalis_anterior ru:Передняя_область_запястья
+				Reg_carpalis_posterior ru:Задняя_область_запястья
+			manus ru:кисть
+				Dorsum_manus ru:Тыл_кисти
+				Palma_manus ru:Ладонь_кисти
+				Thenar syn:Eminentia_thenaris ru:Тенар ru-syn:Возвышение_большого_пальца
+				Hypothenar syn:Eminentia_hypothenaris ru:Гипотенар ru-syn:Возвышение_мизинца
+				Metacarpus ru:Пясть
+				digiti ru:пальцы
+					Pollex syn:Digitus_primus ru:Большой_палец ru-syn:I_палец
+					Index syn:Digitus_secundus ru:Указательный_палец ru-syn:II_палец
+					Digitus_medius ru:Средний_палец ru-syn:III_палец
+					Digitus_annularis ru:Безымянный_палец ru-syn:IV_палец
+					Digitus_minimus ru:Мизинец ru-syn:V_палец
+				Facies_digitales_ventrales ru:Ладонные_поверхности_пальцев
+				Facies_digitales_dorsales ru:Тыльные_поверхности_пальцев
+		regiones_membri_inferioris ru:области_нижней_конечности
+			regio_glutealis ru:ягодичная_область
+				Sulculs_glutealis ru:Ягодичная_складка
+			femur syn:regio_femoralis ru:бедро
+				Reg_femoralis_anterior ru:Передняя_область_бедра
+					Trigonum_femorale ru:Бедренный_треугольник
+				Reg_femoralis_posterior ru:Задняя_область_бедра
+			genu ru:колено
+				Reg_genus_anterior ru:Передняя_область_колена
+				Reg_genus_posterior ru:Задняя_область_колена
+					Fossa_poplitea ru:Подколенная_ямка
+			crus ru:голень ru-syn:область_голени
+				Reg_cruralis_anterior ru:Передняя_область_голени
+				Reg_cruralis_posterior ru:Задняя_область_голени
+					Sura syn:Reg_suralis ru:Икра ru-syn:Икроножная_область
+				Reg_talocrucalis_anterior_et_posterior ru:Передняя_и_задние_голеностопные_области
+			pes ru:стопа
+				Reg_calcanea ru:Пяточная_область ru-syn:Пятка
+				Dorsum_pedis ru:Тыл_стопы ru-syn:Тыльная_область
+				Plantar_pedis ru:Подошва_стопы ru-syn:Подошвенная_область
+				Margo_lateralis_pedis ru:Латеральный_край_стопы ru-syn:Малоберцовый_край_стопы
+				Margo_medialis_pedis ru:Медиальный_край_стопы ru-syn:Большеберцовый_край_стопы
+				Tarsus ru:Предплюсна
+				Metatarsus ru:Плюсна
+				digiti ru:пальцы
+					Hallux syn:Digitus_primus ru:Большой_палец ru-syn:I_палец
+					Digitus_secundus ru:II_палец
+					Digitus_tertius ru:III_палец
+					Digitus_quartus ru:IV_палец
+					Digitus_minimus ru:Мизинец ru-syn:V_палец
+					

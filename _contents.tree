@@ -1,0 +1,8 @@
+_contents alt:pna include-namespace:/med_world/books.tree publication-year:1977 d:"Parisiana Nomenclatura Anatomica in Tabtree format" src:Международная_анатомическая_номенклатура
+	abbreviations ref-file:abbreviations.tree
+	termini_generalis ref-file:termini_generales.tree 
+	osteologia ref-file:osteologia.tree
+	arthrologia ref-file:arthrologia.tree
+	myologia ref-file:myologia.tree
+	splanchologia ref-file:splanchologia.tree
+	angiologia ref-file:angiologia.tree
